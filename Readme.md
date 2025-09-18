@@ -127,6 +127,12 @@ By default, backend runs at: http://localhost:5000
 ✔️ Showcases API design, error handling, and clean documentation
 
 ✔️ Can be extended into a full-stack project (React frontend, cloud deployment, etc.)
+
+##  Demo
+
+[![Watch the demo](https://drive.google.com/file/d/1q87_H6Wty0oGA9NO-IkiXcVRX_uk66Gn/view?usp=sharing)]
+
+
 ## 🔗 Links
 [![GitHub](https://img.shields.io/badge/my_github-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/shambhavisingh011)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shambhavi-singh-619100239/)
